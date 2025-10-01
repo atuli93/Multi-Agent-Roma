@@ -1,6 +1,6 @@
 # Multi-Agent ROMA Workflow Hub
 
-A simple **multi-agent workflow demo** that simulates breaking a goal into tasks, executing them, and reviewing results. Built for **Sentient Builder L2 submission**.  
+A simple **multi-agent workflow demo** that simulates breaking a goal into tasks, executing them, and reviewing results.
 
 This version uses a **mock Planner** so it runs without OpenAI API calls, perfect for demo recording.
 
